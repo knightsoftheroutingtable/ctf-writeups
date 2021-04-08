@@ -1,4 +1,4 @@
-[![](http://img.youtube.com/vi/m9wdYy3tCm4/0.jpg)](http://www.youtube.com/watch?v=m9wdYy3tCm4 "")
+[![Well, on second thought let's not go to Camelot, it is a silly place](/res/kotrt.png)](https://www.youtube.com/watch?v=m9wdYy3tCm4 "")
 
 First acquire the needed information:  
 \#1 CPU Model  
