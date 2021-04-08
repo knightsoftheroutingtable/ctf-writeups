@@ -1,3 +1,5 @@
+[![](http://img.youtube.com/vi/m9wdYy3tCm4/0.jpg)](http://www.youtube.com/watch?v=m9wdYy3tCm4 "")
+
 First acquire the needed information:  
 \#1 CPU Model  
 `cat /proc/cpuinfo | grep "model name" | head -n1 | cut -d' ' -f3-  `  
@@ -126,5 +128,3 @@ justCTF{maaybe-Docker-will-finally-fix-this-after-this-task?}
 
 Good job o/
 ```
-
-Telegram
